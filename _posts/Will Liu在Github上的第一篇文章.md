@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      "中国高等教育的系统性失败"
+subtitle:   "The Systematic Failure of Higher Education in China"
+date:       2023-06-21 12:00:00
+author:     "Will Liu"
+catalog: false
+published: false
+header-style: text
+tags:
+---
+
+
 # Will Liu在Github上的第一篇文章
 
 这是我在Github上的第一篇文章，欢迎你的关注
