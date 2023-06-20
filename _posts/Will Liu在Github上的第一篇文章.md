@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "中国高等教育的系统性失败"
-subtitle:   "The Systematic Failure of Higher Education in China"
+title:      "Will Liu在GitHub上的第一篇文章"
+subtitle:   "First Article at GitHub"
 date:       2023-06-21 12:00:00
 author:     "Will Liu"
 catalog: false
